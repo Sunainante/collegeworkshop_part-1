@@ -1,0 +1,15 @@
+h1{
+    color:pink;
+}
+
+h2:hover{
+    color:blue;
+}
+
+img{
+    width:100px;
+    height: 100px;
+}
+.home{
+    color: red;
+}
